@@ -1,2 +1,2 @@
-# Projeto-Crud2
-Atividade do Crud feito em aula
+# Crud_aula2
+Projeto CRUD feito nas aulas de programação web 3.
